@@ -1,0 +1,84 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#F8FAFC"/>
+  <circle cx="102" cy="64" r="190" fill="#818CF8" fill-opacity="0.18"/>
+  <circle cx="1112" cy="160" r="220" fill="#22D3EE" fill-opacity="0.16"/>
+  <rect x="0" y="0" width="264" height="720" fill="#F1F5F9"/>
+  <rect x="28" y="28" width="56" height="56" rx="18" fill="#0F172A"/>
+  <path d="M45 66V47M56 66V39M67 66V53" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <text x="98" y="51" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#0F172A">PulseBoard</text>
+  <text x="98" y="74" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748B">Analytics OS</text>
+  <rect x="24" y="126" width="216" height="48" rx="18" fill="#0F172A"/>
+  <text x="70" y="156" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="white">Overview</text>
+  <rect x="24" y="190" width="216" height="48" rx="18" fill="white" fill-opacity="0.8"/>
+  <text x="70" y="220" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#475569">Revenue</text>
+  <rect x="24" y="254" width="216" height="48" rx="18" fill="white" fill-opacity="0.8"/>
+  <text x="70" y="284" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#475569">Customers</text>
+  <rect x="24" y="586" width="216" height="104" rx="28" fill="url(#cardGradient)"/>
+  <text x="48" y="626" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="white">Pro insight</text>
+  <text x="48" y="652" font-family="Inter, Arial, sans-serif" font-size="13" fill="white" fill-opacity="0.82">Referral customers convert</text>
+  <text x="48" y="672" font-family="Inter, Arial, sans-serif" font-size="13" fill="white" fill-opacity="0.82">31% better this month.</text>
+  <rect x="264" y="0" width="1016" height="92" fill="#F8FAFC" fill-opacity="0.85"/>
+  <text x="304" y="36" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#4F46E5">EXECUTIVE OVERVIEW</text>
+  <text x="304" y="68" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="900" fill="#0F172A">Business analytics dashboard</text>
+  <rect x="804" y="24" width="220" height="44" rx="16" fill="white" stroke="#E2E8F0"/>
+  <text x="840" y="51" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#64748B">Search transactions...</text>
+  <rect x="1040" y="24" width="148" height="44" rx="16" fill="white" stroke="#E2E8F0"/>
+  <text x="1074" y="51" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#475569">Last 30 days</text>
+  <rect x="304" y="118" width="606" height="176" rx="28" fill="white" fill-opacity="0.92" stroke="white"/>
+  <text x="332" y="154" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="3" fill="#4F46E5">CLIENT-READY PORTFOLIO PROJECT</text>
+  <text x="332" y="194" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="900" fill="#0F172A">Track revenue, acquisition,</text>
+  <text x="332" y="232" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="900" fill="#0F172A">funnel health, and transactions.</text>
+  <text x="332" y="266" font-family="Inter, Arial, sans-serif" font-size="15" fill="#64748B">Interactive charts, sortable tables, CSV export, responsive UI, and dark mode.</text>
+  <rect x="934" y="118" width="306" height="176" rx="28" fill="white" fill-opacity="0.92" stroke="white"/>
+  <text x="962" y="154" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#0F172A">Key insights</text>
+  <circle cx="976" cy="188" r="14" fill="#DCFCE7"/>
+  <text x="1002" y="193" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#0F172A">Revenue acceleration</text>
+  <circle cx="976" cy="228" r="14" fill="#FEF3C7"/>
+  <text x="1002" y="233" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#0F172A">Paid ads efficiency</text>
+  <circle cx="976" cy="268" r="14" fill="#E0E7FF"/>
+  <text x="1002" y="273" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#0F172A">Retention opportunity</text>
+  <g>
+    <rect x="304" y="318" width="222" height="126" rx="26" fill="white" fill-opacity="0.95"/>
+    <text x="328" y="352" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#64748B">Total revenue</text>
+    <text x="328" y="394" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#0F172A">$184,520</text>
+    <rect x="328" y="410" width="72" height="26" rx="13" fill="#DCFCE7"/>
+    <text x="344" y="428" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" fill="#047857">+16.4%</text>
+  </g>
+  <g>
+    <rect x="544" y="318" width="222" height="126" rx="26" fill="white" fill-opacity="0.95"/>
+    <text x="568" y="352" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#64748B">Active customers</text>
+    <text x="568" y="394" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#0F172A">18,864</text>
+    <rect x="568" y="410" width="64" height="26" rx="13" fill="#DCFCE7"/>
+    <text x="584" y="428" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" fill="#047857">+8.7%</text>
+  </g>
+  <g>
+    <rect x="784" y="318" width="222" height="126" rx="26" fill="white" fill-opacity="0.95"/>
+    <text x="808" y="352" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#64748B">Orders processed</text>
+    <text x="808" y="394" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#0F172A">5,436</text>
+    <rect x="808" y="410" width="64" height="26" rx="13" fill="#DCFCE7"/>
+    <text x="824" y="428" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" fill="#047857">+4.9%</text>
+  </g>
+  <g>
+    <rect x="1024" y="318" width="216" height="126" rx="26" fill="white" fill-opacity="0.95"/>
+    <text x="1048" y="352" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#64748B">Conversion rate</text>
+    <text x="1048" y="394" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#0F172A">7.1%</text>
+    <rect x="1048" y="410" width="64" height="26" rx="13" fill="#DCFCE7"/>
+    <text x="1064" y="428" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" fill="#047857">+2.8%</text>
+  </g>
+  <rect x="304" y="468" width="616" height="214" rx="28" fill="white" fill-opacity="0.95"/>
+  <text x="332" y="506" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#0F172A">Revenue and profit trend</text>
+  <path d="M340 636C390 600 427 626 470 588C514 549 556 584 602 540C648 496 689 520 735 486C781 452 833 477 884 434" stroke="#6366F1" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M340 650C394 632 431 644 474 616C522 585 570 610 618 574C668 537 718 557 770 526C814 500 850 510 884 492" stroke="#22D3EE" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <rect x="944" y="468" width="296" height="214" rx="28" fill="white" fill-opacity="0.95"/>
+  <text x="972" y="506" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#0F172A">Traffic sources</text>
+  <circle cx="1092" cy="584" r="58" stroke="#6366F1" stroke-width="20" stroke-dasharray="138 230" transform="rotate(-90 1092 584)"/>
+  <circle cx="1092" cy="584" r="58" stroke="#22D3EE" stroke-width="20" stroke-dasharray="87 230" stroke-dashoffset="-138" transform="rotate(-90 1092 584)"/>
+  <circle cx="1092" cy="584" r="58" stroke="#34D399" stroke-width="20" stroke-dasharray="58 230" stroke-dashoffset="-225" transform="rotate(-90 1092 584)"/>
+  <circle cx="1092" cy="584" r="58" stroke="#F59E0B" stroke-width="20" stroke-dasharray="51 230" stroke-dashoffset="-283" transform="rotate(-90 1092 584)"/>
+  <defs>
+    <linearGradient id="cardGradient" x1="24" y1="586" x2="240" y2="690" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -8,9 +8,8 @@ A polished, responsive analytics dashboard built to demonstrate production-ready
 
 Deploy this project to Vercel or Netlify, then replace this line with your live URL:
 
-```txt
-https://your-pulseboard-demo.vercel.app
-```
+https://business-analytics-dashboard-henna.vercel.app/
+
 
 ## Why this project attracts clients
 
